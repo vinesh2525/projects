@@ -15,8 +15,8 @@ Clone the Repository:
 
 sh
 Copy code
-git clone https://github.com/your-username/harsha-hospital.git
-cd harsha-hospital
+git clone https://github.com/vinesh2525/projects.git
+cd projects/main
 Install Dependencies:
 Ensure you have Python installed on your machine. Install the required libraries using pip:
 
@@ -45,12 +45,3 @@ View appointments for all doctors.
 Return to the home page.
 Code Structure
 Harsha_Hospital.py: Main script containing the application logic and UI components.
-Contributing
-Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure your code follows the existing style and conventions.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-Acknowledgements
-This project was developed as part of a learning exercise in Python programming and GUI development.
-
